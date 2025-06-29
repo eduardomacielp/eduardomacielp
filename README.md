@@ -3,7 +3,7 @@ I'm a Full-Stack Developer in the .NET world, helping ideas become real through 
 
 Also creating content, sharing my passion for coding, and offering practical advice on:
 
-- [YouTube](https://www.youtube.com/channel/sweduardo)
+- [YouTube](https://www.youtube.com/channel/eduardomacielp)
 
 ## 💻 Tech Stack:
 
