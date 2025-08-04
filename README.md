@@ -1,6 +1,6 @@
 ### Hey, I'm Eduardo! 👋
 
-I'm a software engineer specialized in the .NET world, helping ideas become real through code quality, performance, and thoughtful design. <br>
+Hi! I'm a software engineer specialized in the .NET world, my focus is to build web applications that transform ideas into real solutions. <br>
 
 ### What I'm working on 👨‍💻
 
